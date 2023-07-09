@@ -1,0 +1,12 @@
+
+Inst 05: 
+
+path = 
+[| false,  true
+ |  true, false
+ | false,  true
+ |];
+symmetry = array3d(1..2, 1..4, 1..4, [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]);
+tour_distance = [0, 178];
+----------
+

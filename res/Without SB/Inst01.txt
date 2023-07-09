@@ -1,0 +1,25 @@
+
+path = 
+[|  true, false
+ |  true, false
+ | false,  true
+ |  true, false
+ | false,  true
+ |  true, false
+ |];
+symmetry = array3d(1..2, 1..7, 1..7, [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]);
+tour_distance = [55, 14];
+----------
+path = 
+[| false,  true
+ | false,  true
+ |  true, false
+ |  true, false
+ | false,  true
+ |  true, false
+ |];
+symmetry = array3d(1..2, 1..7, 1..7, [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]);
+tour_distance = [30, 30];
+----------
+==========
+Finished in 165msec.
